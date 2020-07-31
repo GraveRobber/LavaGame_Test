@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d822f8773399ff46b806b0029625753, type: 3}
+  m_Name: medium
+  m_EditorClassIdentifier: 
+  speed: 5
+  force: 100
+  matColor: {r: 0.9430209, g: 1, b: 0.0047169924, a: 0}
